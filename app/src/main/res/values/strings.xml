@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegacioBarraInferior</string>
+    <string name="prova">Això és una prova</string>
+    <string name="navegacio_niuada">Navegacio niuada</string>
+    <string name="cat_a">Cat A</string>
+    <string name="cat_b">Cat B</string>
+    <string name="cat_c">Cat C</string>
+</resources>
